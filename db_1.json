@@ -1,0 +1,6 @@
+{
+    "hai": ["Halo!", "Hai, ada yang bisa saya bantu?", "Selamat datang!"],
+    "apa kabar": ["Baik-baik saja, terima kasih!", "Kabar baik, bagaimana dengan Anda?", "Saya baik, terima kasih!"],
+    "siapa kamu": ["Saya adalah AI responder.", "Saya adalah bot yang siap membantu Anda.", "Saya adalah asisten virtual."],
+    "terima kasih": ["Sama-sama!", "Tidak masalah!", "Senang bisa membantu!"]
+}
